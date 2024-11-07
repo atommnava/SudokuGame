@@ -1,3 +1,5 @@
+// This file is for practice purposes, this is NOT part of this projeect
+
 package sudoku;
 
 import javax.swing.*;
